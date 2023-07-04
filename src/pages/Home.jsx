@@ -5,7 +5,7 @@ import HighlightText from "../components/Core/HomePage/HighlightText";
 import CTAButton from "../components/Core/HomePage/Button";
 import Banner from "../assets/Images/banner.mp4";
 import CodeBlocks from "../components/Core/HomePage/CodeBlocks";
-import Footer from "../components/Core/HomePage/Footer";
+import Footer from "../components/Common/Footer";
 import TimelineSection from "../components/Core/HomePage/TimelineSection";
 import LearningLanguageSection from "../components/Core/HomePage/LearningLanguageSection";
 import InstructorSection from "../components/Core/HomePage/InstructorSection";
